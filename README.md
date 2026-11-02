@@ -1,8 +1,8 @@
-# 2D Platformer Game
+# 2D Minecraft
 
 A browser-based 2D platformer with procedurally generated terrain, built with vanilla JavaScript, HTML5 Canvas, and CSS — no frameworks, no external dependencies.
 
-**[Play it live](https://quantumcommit45.github.io/Platformer_Game/)**
+**[Play it live](https://ernestine-programs.github.io/2D-Minecraft/)**
 
 ## Overview
 
